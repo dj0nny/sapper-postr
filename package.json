@@ -1,6 +1,6 @@
 {
   "name": "sapper-postr",
-  "description": "My first app with sapper",
+  "description": "My first app developed with Sapper",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
