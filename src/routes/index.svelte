@@ -38,8 +38,8 @@
 
 <h1>Sapper-postr</h1>
 
-<!-- <figure>
+<figure>
 	<img src="https://media.giphy.com/media/PF1nl1XCM6aze/giphy.gif" alt="test">
-</figure> -->
+</figure>
 
 <p><strong>Made with ❤ by <a href="https://github.com/dj0nny" target="_blank">dj0nny</a></strong></p>
