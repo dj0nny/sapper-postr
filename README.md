@@ -1,6 +1,6 @@
-# sapper-template
+# sapper-postr
 
-The default [Sapper](https://github.com/sveltejs/sapper) template, with branches for Rollup and webpack. To clone it and get started:
+This is the default [Sapper](https://github.com/sveltejs/sapper) template generated via `npx`, with branches for Rollup and webpack. To clone it and get started:
 
 ```bash
 # for Rollup
