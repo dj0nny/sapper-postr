@@ -33,14 +33,13 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Sapper-postr</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Sapper-postr</h1>
 
-<figure>
-	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
-</figure>
+<!-- <figure>
+	<img src="https://media.giphy.com/media/PF1nl1XCM6aze/giphy.gif" alt="test">
+</figure> -->
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>Made with ❤ by <a href="https://github.com/dj0nny" target="_blank">dj0nny</a></strong></p>
